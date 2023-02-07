@@ -17,5 +17,10 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         returnZero();
+        funcion();
+    }
+
+    public static void funcion(){
+        System.out.println("Hola Mundo");
     }
 }
