@@ -3,5 +3,6 @@
         "**/target": true
     },
     "java.configuration.updateBuildConfiguration": "interactive",
-    "cSpell.language": "en,es"
+    "cSpell.language": "en,es",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
