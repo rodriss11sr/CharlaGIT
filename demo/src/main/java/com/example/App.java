@@ -6,6 +6,9 @@ package com.example;
  */
 public class App {
 
+    public static int returnZero() {
+        return 0;
+    }
     
     public static int simpleFunction(int n) {
         return n *= n;
@@ -13,6 +16,7 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        returnZero();
         funcion();
     }
 
